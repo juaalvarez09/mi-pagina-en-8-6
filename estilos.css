@@ -1,0 +1,41 @@
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(234, 226, 234);
+}
+.principal{
+   display: flex;
+
+}
+body{
+    background-image: url(fondo.jpg)
+}
+.titulo{
+font-size: 60px;
+color: rgba(237, 23, 12, 0.911);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img1{
+    height: 900px;
+    width:  900px;
+    background-image: url(fase-folicular.webp);
+    float: left;
+    background-repeat: no-repeat;
+}
+.img2{
+    height: 500px;
+    width:  500px;
+    background-image: url(electrones.jfif);
+    float: left;
+    background-repeat: no-repeat;
+}
+.img2{
+    height: 500px;
+    width:  500px;
+    background-image: url(circuitos\ electricos.webp);
+    float: left;
+    background-repeat: no-repeat;
+}
